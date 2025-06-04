@@ -47,7 +47,7 @@ O endpoint `/ws/44245000/json/` foi testado com **Apache JMeter** para avaliar d
 
 ```bash
 # Clone o repositório
-git clone [https://github.com/seuusuario/nome-do-repo.git](https://github.com/JoaoNicolasFreitas/Teste-CEP.git)
+git clone https://github.com/JoaoNicolasFreitas/Teste-CEP.git
 cd nome-do-repo
 
 # Crie e ative o ambiente virtual
